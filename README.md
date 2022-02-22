@@ -8,9 +8,9 @@
   
  2. 향후 계획
   
-  -NFT를 실제로 만들 계획입니다.
-  -Discord, Instagram, Twitter를 이용해 커뮤니티를 만들 계획입니다.
-  -2022년 8월 즈음에 NFT를 minting할 계획입니다.
+  - NFT를 실제로 만들 계획입니다.
+  - Discord, Instagram, Twitter를 이용해 커뮤니티를 만들 계획입니다.
+  - 2022년 8월 즈음에 NFT를 minting할 계획입니다.
   
 3. 저작권, 라이선스 정보
   
