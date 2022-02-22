@@ -1,0 +1,182 @@
+html, body {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	overflow-x: hidden;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+	margin: 0;
+	padding: 0;
+}
+
+button {
+	border: none;
+	background-color: transparent;
+}
+
+#intro {
+	width: 100%;
+	height: 934px;
+	background-color: skyblue;
+}
+
+#intro .introWrap {
+	position: relative;
+	width: 990px;
+	height: 790px;
+	left: 50%;
+	margin-left: -495px;
+	top: 100px;
+}
+
+#intro .introWrap .logo {
+	position: absolute;
+	width:  983px;
+	height: 782px;
+	background-image: url(../img/intro/logo.png);
+}
+
+#story {
+	position: relative;
+	width: 100%;
+	height: 934px;
+	background-image: url(../img/bg.png);
+}
+
+#story .storyTitle {
+	position: relative;
+	color: white;
+	font-size: 200px;
+	top: 50px;
+	margin-left: 200px ;
+}
+
+#story .storyIntroduce {
+	position: relative;
+	width: 500px;
+	color: white;
+	font-size: 25px;
+	line-height: 50px;
+	top: 100px;
+	left: 200px;
+	background-color: black;
+}
+
+#story .question {
+	position: absolute;
+	top: 150px;
+	left: 1200px;
+}
+
+#description {
+	position: relative;
+	width: 100%;
+	height: 934px;
+	background-color: purple;
+}
+
+#description .picture {
+	position:absolute;
+	top: 150px;
+	left: 150px;
+}
+
+#description .rightPart {
+	position: relative;
+	width: 750px;
+	height: 800px;
+	left: 950px;
+	top: 50px;
+}
+
+#description .rightPart .aboutProjectTitle {
+	float: right;
+	position: relative;
+	color: white;
+	font-size: 100px;
+	top: 50px;
+	margin-left: 200px ;
+}
+
+#description .rightPart .aboutProject {
+	position: relative;
+	color: white;
+	font-size: 25px;
+	line-height: 50px;
+	top: 100px;
+	float: right;
+}
+
+#team {
+	background-color: Orange;
+	/*position: relative;*/
+	width: 100%;
+	height: 933px;
+}
+
+#team .topPart {
+	position: relative;
+	width: 300px;
+	height: 150px;
+	left: 50%;
+	margin-left: -150px;
+}
+
+#team .topPart .teamTitle {
+	position: relative;
+	color: white;
+	font-size: 100px;
+}
+
+#team .part {
+	position: relative;
+	width: 1000px;
+	height: 300px;
+	left: 50%;
+	margin-left: -500px;
+	top: 200px;
+}
+
+#team .part .leftPart {
+	position: relative;
+	float: left;
+	/*background-color: pink;*/
+}
+
+#team .part .leftPart .LucasName {
+	position: relative;
+	font-size: 60px;
+	color: white;
+}
+
+#team .part .leftPart .LucasIntro {
+	position: relative;
+	font-size: 30px;
+}
+
+#team .part .centerPart{
+	float: left;
+}
+
+#team .part .centerPart .blank {
+	/*background-color: white;*/
+	width: 400px;
+	height: 500px;
+}
+
+#team .part .rightPart {
+	/*background-color: blue;*/
+}
+
+#team .part .rightPart .ClaireName {
+	position: relative;
+	font-size: 60px;
+	color: white;
+}
+
+#team .part .rightPart .ClaireIntro {
+	position: relative;
+	font-size: 30px;
