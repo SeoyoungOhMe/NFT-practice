@@ -6,6 +6,9 @@
   
  2. 구성
 
-  표지/Story/About the Project/Team
+  표지
+  Story
+  About the Project
+  Team
   
   
